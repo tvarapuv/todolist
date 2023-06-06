@@ -1,0 +1,15 @@
+.container {
+    margin-top: 15px;
+}
+
+.container #elem2 {
+   border:2px solid blue;
+   border-radius: 5px;
+   height: 35px;
+   width: 200px;
+   text-align: center;
+}
+
+.elem {
+    padding-top: 10px;
+}
